@@ -1,4 +1,4 @@
-### :goat: Who is Masocher ?
+### :star: Who is Masocher ?
 ### Just a front-end developer
 
 ##
