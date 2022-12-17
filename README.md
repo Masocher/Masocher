@@ -1,4 +1,4 @@
-### :crown: Who is Masocher ?
+### :goat: Who is Masocher ?
 ### Just a front-end developer
 
 ##
