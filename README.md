@@ -1,4 +1,4 @@
-### :star2: Who is Masocher ?
+### :crown: Who is Masocher ?
 ### Just a front-end developer
 
 ##
