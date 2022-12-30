@@ -6,7 +6,7 @@
 ### :mag: What are his skills ?
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white" alt="React.js Badge"/>
+  <img src="https://img.shields.io/badge/react.js-blue?style=for-the-badge&logo=react&logoColor=white" alt="React.js Badge"/>
   <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript Badge"/>
   <img src="https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>
   <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS Badge"/>
