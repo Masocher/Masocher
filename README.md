@@ -34,5 +34,3 @@
 ### :fire: His stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=masocher&theme=dark&background=000000)](https://github.com/Masocher)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masocher&layout=compact&theme=vision-friendly-dark)](https://github.com/Masocher/Masocher)
