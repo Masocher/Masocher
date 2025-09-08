@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwindcss"/>
-  <img src="https://img.shields.io/badge/reactnative-blue?style=for-the-badge&logo=reactnative&logoColor=white" alt="ReactNative"/>
+    <img src="https://img.shields.io/badge/react.js-blue?style=for-the-badge&logo=react&logoColor=white" alt="Reactnative"/>
 </div>
 
 <div id="badges">
