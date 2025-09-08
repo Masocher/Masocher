@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwindcss"/>
     <img src="https://img.shields.io/badge/reactnative-blue?style=for-the-badge&logo=react&logoColor=white" alt="Reactnative"/>
+    <img src="https://img.shields.io/badge/expo-blue?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
 </div>
 
 <div id="badges">
