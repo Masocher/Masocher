@@ -11,14 +11,14 @@
   <img src="https://img.shields.io/badge/dart-blue?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   <img src="https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/tailwindcss-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwindcss"/>
-    <img src="https://img.shields.io/badge/reactnative-blue?style=for-the-badge&logo=react&logoColor=white" alt="Reactnative"/>
-    <img src="https://img.shields.io/badge/expo-blue?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/reactnative-blue?style=for-the-badge&logo=react&logoColor=white" alt="Reactnative"/>
 </div>
 
 <div id="badges">
   <img src="https://img.shields.io/badge/redux-blueviolet?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
   <img src="https://img.shields.io/badge/sass-blueviolet?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
   <img src="https://img.shields.io/badge/bootstrap-blueviolet?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/expo-blueviolet?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
 </div>
 
 <div id="badges">
